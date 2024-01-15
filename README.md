@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif)](https://www.linkedin.com/in/igustiagungsannybudidarma/)
 <h1 align="center">Hi 👋, I'm Sanny</h1>
 <h3 align="center">A passionate data, financial & business analyst.</h3>
-(img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif")
+<img align="right" alt="Coding" width="400" src="[https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 
 - 🌱 I’m currently learning **Ptyhon, R, JavaScript, Scala, & Julia**
