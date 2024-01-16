@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sannybudidarma@gmail.com**
 
-- ⚡ Fun fact **I like fried ice cream more than the usual ice cream**
+- ⚡ Fun fact ** I have been to 20 countries!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
