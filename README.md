@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 
 
-- 🌱 I’m currently learning **Ptyhon, R, JavaScript, Scala, & Julia**
+- 🌱 I’m currently learning **JavaScript, Scala, & Julia**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sannybudidarma/SQL-Portfolio-Projects](https://github.com/sannybudidarma/SQL-Portfolio-Projects)
 
